@@ -1,0 +1,2 @@
+# kbot
+Slackbot using OpenAI
